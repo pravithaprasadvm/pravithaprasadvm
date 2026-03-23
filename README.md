@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/pravithavm)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pravithaprasad474@gmail.com)
 
 </div>
@@ -87,6 +87,6 @@ I love turning ideas into **clean, responsive, and user-friendly interfaces**.
 
 ✨ *“Design + Code = Beautiful Experiences”* ✨
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=120&section=footer"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=120&section=footer"/> -->
 
 </div>
